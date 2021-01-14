@@ -29,7 +29,6 @@ which already has the above packages.
 
 DATA:
 
-The dataset used in this project is included as iris.data in the zip file. 
 Iris dataset is freely available on the UCI Machine Learning Repository.
 But for this assignment, dataset is imported from sklearn.datasets (load_iris).
 Two features from IRIS dataset has been taken as parameters with 0.6 as training data.
