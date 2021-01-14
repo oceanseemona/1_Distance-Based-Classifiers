@@ -43,8 +43,4 @@ The output shown is-
 >Error Plot (Classifier Vs Misclassification error rates)
 >Mean error, Mean Squared Error and Mean Absolute error
 
-Submitted by- A. Ocean Seemona
-M.tech (2nd sem) IS
-ML Lab Assignment- 1
-Email- 220CS2265@nitrkl.ac.in
-Rollno- 220CS2265
+
